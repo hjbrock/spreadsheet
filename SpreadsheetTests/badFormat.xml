@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet version="1.0">
+<cell>
+<name>F2</name>
+</cell>
+<cell>
+<name>D6</name>
+<contents>this is a string</contents>
+</cell>
+<cell>
+<name>D7</name>
+<contents>6.54</contents>
+</cell>
+</spreadsheet>

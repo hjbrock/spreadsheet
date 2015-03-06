@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet version="1.0">
+<cell>
+<name>A1</name>
+</cell>
+<contents>=b2*c2</contents>
+<cell>
+<name>B2</name>
+<contents>=d3+d5</contents>
+</cell>
+<cell>
+<name>F2</name>
+<contents>=b2+a1</contents>
+</cell>
+<cell>
+<name>D6</name>
+<contents>this is a string</contents>
+</cell>
+<cell>
+<name>D7</name>
+<contents>6.54</contents>
+</cell>
+</spreadsheet>
